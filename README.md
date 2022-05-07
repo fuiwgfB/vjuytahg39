@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![123](/MrAZOTlpjXM.jpg)
+![123](/main_1.jpg)(/main_2.jpg)
 
 <!---
 sashadeaf/sashadeaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
