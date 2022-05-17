@@ -6,6 +6,9 @@ Main
 SV
 [1](/sv_msv2.jpg)  [2](/sv_tv.jpg)  [3](/rvia_sv.jpg)  [4](/sv_pvo.jpg)  [5](/sv_razvedka.jpg) [6](/sv_iv.jpg) [7](/sv_rhbz.jpg) [8](/sv_svyaz.jpg)
 
+VMF
+[1](/vmf_bereg_voiska.jpg)  [2](/vmf_naddvod_sily.jpg)  [3](/vmf_podvod_sily.jpg)  [4](/vmf_moraviation.jpg)
+
 
 <!---
 sashadeaf/sashadeaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
