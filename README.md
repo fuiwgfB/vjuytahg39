@@ -6,6 +6,9 @@ Main
 SV
 [1](/sv_msv2.jpg)  [2](/sv_tv.jpg)  [3](/rvia_sv.jpg)  [4](/sv_pvo.jpg)  [5](/sv_razvedka.jpg) [6](/sv_iv.jpg) [7](/sv_rhbz.jpg) [8](/sv_svyaz.jpg)
 
+btr82a
+[1](/btr82a/1.jpg)  [2](/btr82a/2.jpg)  [3](/btr82a/3.jpg) [4](/btr82a/4.jpg) [5](/btr82a/5.jpg)
+
 VKS
 [1](/vks_vs.jpg)  [2](/vks_ks.jpg)  [3](/vks_pvo.jpg)
 
