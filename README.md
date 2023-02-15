@@ -33,6 +33,9 @@ VKS
 VMF
 [1](/vmf_bereg_voiska.jpg)  [2](/vmf_naddvod_sily.jpg)  [3](/vmf_podvod_sily.jpg)  [4](/vmf_moraviation.jpg)
 
+ITALO
+[1](/italo_icon/italo_nonstop.jpg)
+
 
 <!---
 sashadeaf/sashadeaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
