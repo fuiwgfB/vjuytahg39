@@ -34,10 +34,5 @@ VMF
 [1](/vmf_bereg_voiska.jpg)  [2](/vmf_naddvod_sily.jpg)  [3](/vmf_podvod_sily.jpg)  [4](/vmf_moraviation.jpg)
 
 ITALO
-[1](/italo_icon/italo_nonstop.jpg) [2](/italo_icon/italo4youlogo.jpg) [3](/italo_icon/RMI-Classic.png) [4](/italo_icon/RMI-New.png) [5](/italo_icon/RMI-Disco.png) [6](/italo_icon/hitradio.jpg) [7](/italo_icon/1000ITA.jpg) [8](/italo_icon/italodiscopilot.jpg) [9](/italo_icon/italoscene.jpg) [10](/italo_icon/syntheticfm.jpg) [11](/italo_icon/radioitalodisconet.jpg)
+[1](/italo_icon/italo_nonstop.jpg) [2](/italo_icon/italo4youlogo.jpg) [3](/italo_icon/RMI-Classic.png) [4](/italo_icon/RMI-New.png) [5](/italo_icon/RMI-Disco.png) [6](/italo_icon/hitradio.jpg) [7](/italo_icon/1000ITA.jpg) [8](/italo_icon/italodiscopilot.jpg) [9](/italo_icon/italoscene.jpg) [10](/italo_icon/syntheticfm.jpg) [11](/italo_icon/radioitalodisconet.jpg) [12](/italo_icon/italodefault.jpg)
 
-
-<!---
-sashadeaf/sashadeaf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
