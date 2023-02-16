@@ -34,7 +34,7 @@ VMF
 [1](/vmf_bereg_voiska.jpg)  [2](/vmf_naddvod_sily.jpg)  [3](/vmf_podvod_sily.jpg)  [4](/vmf_moraviation.jpg)
 
 ITALO
-[1](/italo_icon/italo_nonstop.jpg)
+[1](/italo_icon/italo_nonstop.jpg) [2](/italo_icon/italo4youlogo.jpg) [3](/italo_icon/RMI-Classic.png) [4](/italo_icon/RMI-New.png) [5](/italo_icon/RMI-Disco.png)
 
 
 <!---
