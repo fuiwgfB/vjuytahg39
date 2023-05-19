@@ -1,0 +1,87 @@
+[
+  {
+    "name" : "RMI New Generation",
+    "stream" : "https://cast1.torontocast.com:1315/stream",
+    "picture" : "https://fuiwgfb.github.io/vjuytahg39/italo_icon/RMI-New.png"
+  },
+  {
+    "name" : "RMI Disco Classic",
+    "stream" : "https://cast1.torontocast.com:1165/stream",
+    "picture" : "https://fuiwgfb.github.io/vjuytahg39/italo_icon/RMI-Classic.png"
+  },
+  {
+    "name" : "RMI Euro Disco",
+    "stream" : "https://cast1.torontocast.com:1335/stream",
+    "picture" : "https://fuiwgfb.github.io/vjuytahg39/italo_icon/RMI-Disco.png"
+  },
+  {
+    "name" : "ITALO DANCE FM - NON STOP",
+    "stream" : "http://188.40.97.185:8120/stream",
+    "picture" : "https://fuiwgfb.github.io/vjuytahg39/italo_icon/italo_nonstop.jpg"
+  },
+  {
+    "name" : "Italo4you",
+    "stream" : "https://ssl-1.radiohost.pl:8018/stream",
+    "picture" : "https://fuiwgfb.github.io/vjuytahg39/italo_icon/italo4youlogo.jpg"
+  },
+  {
+    "name" : "Hitradio Polska",
+    "stream" : "http://51.255.8.139:9090/stream/1/",
+    "picture" : "https://fuiwgfb.github.io/vjuytahg39/italo_icon/hitradio.jpg"
+  },
+  {
+    "name" : "1000 Italo Hits",
+    "stream" : "http://1000italohits.stream.laut.fm/1000italohits",
+    "picture" : "https://fuiwgfb.github.io/vjuytahg39/italo_icon/1000ITA.jpg"
+  },
+  {
+    "name" : "ITALOPOWER!",
+    "stream" : "https://stream.deevaradio.net:10443/italopower",
+    "picture" : "https://fuiwgfb.github.io/vjuytahg39/italo_icon/italopower.jpg"
+  },
+  {
+    "name" : "Italo Sound",
+    "stream" : "https://icecast.italosound.com/italosound",
+    "picture" : "https://fuiwgfb.github.io/vjuytahg39/italo_icon/italosound.jpg"
+  },
+  {
+    "name" : "Italoscene",
+    "stream" : "http://italoscene.stream.laut.fm/italoscene",
+    "picture" : "https://fuiwgfb.github.io/vjuytahg39/italo_icon/italoscene.jpg"
+  },
+  {
+    "name" : "Mixitalo",
+    "stream" : "https://mixitalo.stream.laut.fm/mixitalo",
+    "picture" : "https://fuiwgfb.github.io/vjuytahg39/italo_icon/italodefault.jpg"
+  },
+  {
+    "name" : "Synthizitalo Disco",
+    "stream" : "http://synthizitalodisco.stream.laut.fm/synthizitalodisco",
+    "picture" : "https://fuiwgfb.github.io/vjuytahg39/italo_icon/italodefault.jpg"
+  },
+  {
+    "name" : "Synthetic FM - The New Italo Generation",
+    "stream" : "http://stream.syntheticfm.com:8030/stream",
+    "picture" : "https://fuiwgfb.github.io/vjuytahg39/italo_icon/syntheticfm.jpg"
+  },
+  {
+    "name" : "Italo-Disco",
+    "stream" : "https://italo-disco.stream.laut.fm/italo-disco",
+    "picture" : "https://fuiwgfb.github.io/vjuytahg39/italo_icon/italodefault.jpg"
+  },
+  {
+    "name" : "RADIO ITALO DISCO NET",
+    "stream" : "https://cast2.asurahosting.com/proxy/alen/stream",
+    "picture" : "https://fuiwgfb.github.io/vjuytahg39/italo_icon/radioitalodisconet.jpg"
+  },
+  {
+    "name" : "Italo Disco stream",
+    "stream" : "http://italo-disco.stream.laut.fm/italo-disco",
+    "picture" : "https://fuiwgfb.github.io/vjuytahg39/italo_icon/italodefault.jpg"
+  },
+  {
+    "name" : "ItaloDance Pilot",
+    "stream" : "http://145.239.26.146:7694/stream/1/",
+    "picture" : "https://fuiwgfb.github.io/vjuytahg39/italo_icon/italodiscopilot.jpg"
+  }
+]
