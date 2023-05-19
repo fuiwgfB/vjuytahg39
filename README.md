@@ -39,5 +39,5 @@ ITALO
 dacha
 [1](dacha_icon/station1.jpg)  [2](dacha_icon/station2.jpg)  [3](dacha_icon/station3.jpg)
 
-[shoutcast.json](shoutcast.json)
+[shoutcasts.json](shoutcasts.json)
 
