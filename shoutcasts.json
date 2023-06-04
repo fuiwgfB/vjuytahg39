@@ -77,7 +77,7 @@
   {
     "name" : "Italo Disco stream",
     "stream" : "http://italo-disco.stream.laut.fm/italo-disco",
-    "picture" : "https://fuiwgfb.github.io/vjuytahg39/italo_icon/openfm.jpg"
+    "picture" : "https://fuiwgfb.github.io/vjuytahg39/italo_icon/italodefault.jpg"
   },
   {
     "name" : "ItaloDance Pilot",
@@ -87,6 +87,6 @@
   {
     "name" : "OpenFM - Italo Disco",
     "stream" : "http://stream.open.fm/27",
-    "picture" : "https://fuiwgfb.github.io/vjuytahg39/italo_icon/italodiscopilot.jpg"
+    "picture" : "https://fuiwgfb.github.io/vjuytahg39/italo_icon/openfm.jpg"
   }
 ]
