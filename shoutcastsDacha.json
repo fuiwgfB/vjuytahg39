@@ -2,19 +2,19 @@
   {
     "name" : "Радио Дача",
     "stream" : "https://microit2.n340.com:8443/bmK1m0QZsfbArN6R_14_dacha_64",
-    "picture" : "https://fuiwgfb.github.io/vjuytahg39/italo_icon/RMI-New.png",
+    "picture" : "https://fuiwgfb.github.io/vjuytahg39/dacha_icon/radio_dacha.jpg",
     "icecast" : "true"
   },
   {
     "name" : "Песня Года",
     "stream" : "https://microit.n340.ru:8443/bmK1m0QZsfbArN6R_2_pesnyagoda_56",
-    "picture" : "https://fuiwgfb.github.io/vjuytahg39/italo_icon/RMI-Classic.png",
+    "picture" : "https://fuiwgfb.github.io/vjuytahg39/dacha_icon/pesnya_goda.png",
     "icecast" : "false"
   },
   {
     "name" : "Диско Дача",
     "stream" : "https://microit.n340.ru:8443/bmK1m0QZsfbArN6R_1_discodacha_56",
-    "picture" : "https://fuiwgfb.github.io/vjuytahg39/italo_icon/RMI-Disco.png",
+    "picture" : "https://fuiwgfb.github.io/vjuytahg39/dacha_icon/disco_dacha.png",
     "icecast" : "false"
   }
 ]
