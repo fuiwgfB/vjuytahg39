@@ -50,24 +50,14 @@
     "picture" : "https://fuiwgfb.github.io/vjuytahg39/italo_icon/italoscene.jpg"
   },
   {
-    "name" : "Mixitalo",
-    "stream" : "https://mixitalo.stream.laut.fm/mixitalo",
-    "picture" : "https://fuiwgfb.github.io/vjuytahg39/italo_icon/italodefault.jpg"
-  },
-  {
-    "name" : "Synthizitalo Disco",
-    "stream" : "http://synthizitalodisco.stream.laut.fm/synthizitalodisco",
-    "picture" : "https://fuiwgfb.github.io/vjuytahg39/italo_icon/italodefault.jpg"
-  },
-  {
     "name" : "Synthetic FM - The New Italo Generation",
     "stream" : "http://stream.syntheticfm.com:8030/stream",
     "picture" : "https://fuiwgfb.github.io/vjuytahg39/italo_icon/syntheticfm.jpg"
   },
   {
-    "name" : "Italo-Disco",
-    "stream" : "https://italo-disco.stream.laut.fm/italo-disco",
-    "picture" : "https://fuiwgfb.github.io/vjuytahg39/italo_icon/italodefault.jpg"
+    "name" : "80s80s Italo Disco",
+    "stream" : "https://regiocast.streamabc.net/regc-80s80sitalohits4327678-mp3-192-4934150",
+    "picture" : "https://fuiwgfb.github.io/vjuytahg39/italo_icon/80s80s.jpg"
   },
   {
     "name" : "RADIO ITALO DISCO NET",
@@ -88,5 +78,20 @@
     "name" : "OpenFM - Italo Disco",
     "stream" : "http://stream.open.fm/27",
     "picture" : "https://fuiwgfb.github.io/vjuytahg39/italo_icon/openfm.jpg"
+  },
+  {
+    "name" : "Mixitalo",
+    "stream" : "https://mixitalo.stream.laut.fm/mixitalo",
+    "picture" : "https://fuiwgfb.github.io/vjuytahg39/italo_icon/italodefault.jpg"
+  },
+  {
+    "name" : "Synthizitalo Disco",
+    "stream" : "http://synthizitalodisco.stream.laut.fm/synthizitalodisco",
+    "picture" : "https://fuiwgfb.github.io/vjuytahg39/italo_icon/italodefault.jpg"
+  },
+  {
+    "name" : "Italo-Disco",
+    "stream" : "https://italo-disco.stream.laut.fm/italo-disco",
+    "picture" : "https://fuiwgfb.github.io/vjuytahg39/italo_icon/italodefault.jpg"
   }
 ]
